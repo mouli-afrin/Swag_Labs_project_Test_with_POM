@@ -28,10 +28,16 @@ project-root/
     <pre>pip install -r requirements.txt<br>playwright install</pre>
   </li>
   <li>Run all tests:
-    <pre>pytest tests/ -n auto --headed</pre>
+    <pre>pytest -v -s -n auto</pre>
   </li>
   <li>Run a specific test:
-    <pre>pytest tests/test_login.py</pre>
+    <pre>pytest -v -s tests/test_login.py</pre>
+  </li>
+   <li>Run for html report:
+    <pre>pytest -v -s --html .\reports\report.html -n 7</pre>
+  </li>
+   <li>Run for specific browser:
+    <pre>pytest -v -s --browser browserName</pre>
   </li>
 </ol>
 
