@@ -1,0 +1,45 @@
+2025-07-19 21:19:43,061 - INFO - TC_005: Add product and verify cart badge started
+2025-07-19 21:19:43,886 - INFO - Filling username and password and logging in
+2025-07-19 21:19:44,040 - INFO - Adding product to cart
+2025-07-19 21:19:44,083 - INFO - Checking cart icon for item count
+2025-07-19 21:19:45,442 - INFO - TC_006: Verify correct item is in cart started
+2025-07-19 21:19:46,559 - INFO - Filling username and password and logging in
+2025-07-19 21:19:46,723 - INFO - Adding product to cart
+2025-07-19 21:19:46,790 - INFO - Navigating to cart page
+2025-07-19 21:19:46,862 - INFO - Fetching product name from cart
+2025-07-19 21:23:33,809 - INFO - TC_005: Add product and verify cart badge started
+2025-07-19 21:23:33,850 - INFO - TC_006: Verify correct item is in cart started
+2025-07-19 21:23:34,695 - INFO - Filling username and password and logging in
+2025-07-19 21:23:34,720 - INFO - Filling username and password and logging in
+2025-07-19 21:23:34,891 - INFO - Adding product to cart
+2025-07-19 21:23:34,946 - INFO - Adding product to cart
+2025-07-19 21:23:34,986 - INFO - Checking cart icon for item count
+2025-07-19 21:23:35,027 - INFO - Navigating to cart page
+2025-07-19 21:23:35,180 - INFO - Fetching product name from cart
+2025-07-19 21:24:43,168 - INFO - TC_006: Verify correct item is in cart started
+2025-07-19 21:24:43,243 - INFO - TC_005: Add product and verify cart badge started
+2025-07-19 21:24:43,947 - INFO - Filling username and password and logging in
+2025-07-19 21:24:43,988 - INFO - Filling username and password and logging in
+2025-07-19 21:24:44,139 - INFO - Adding product to cart
+2025-07-19 21:24:44,211 - INFO - Adding product to cart
+2025-07-19 21:24:44,212 - INFO - Navigating to cart page
+2025-07-19 21:24:44,281 - INFO - Checking cart icon for item count
+2025-07-19 21:24:44,375 - INFO - Fetching product name from cart
+2025-07-19 21:25:10,403 - INFO - TC_005: Add product and verify cart badge started
+2025-07-19 21:25:10,467 - INFO - TC_006: Verify correct item is in cart started
+2025-07-19 21:25:11,228 - INFO - Filling username and password and logging in
+2025-07-19 21:25:11,301 - INFO - Filling username and password and logging in
+2025-07-19 21:25:11,419 - INFO - Adding product to cart
+2025-07-19 21:25:11,488 - INFO - Checking cart icon for item count
+2025-07-19 21:25:11,530 - INFO - Adding product to cart
+2025-07-19 21:25:11,658 - INFO - Navigating to cart page
+2025-07-19 21:25:11,746 - INFO - Fetching product name from cart
+2025-07-19 21:26:04,140 - INFO - TC_005: Add product and verify cart badge started
+2025-07-19 21:26:04,145 - INFO - TC_006: Verify correct item is in cart started
+2025-07-19 21:26:21,211 - INFO - Filling username and password and logging in
+2025-07-19 21:26:21,376 - INFO - Adding product to cart
+2025-07-19 21:26:21,433 - INFO - Checking cart icon for item count
+2025-07-19 21:26:22,166 - INFO - Filling username and password and logging in
+2025-07-19 21:26:22,324 - INFO - Adding product to cart
+2025-07-19 21:26:22,390 - INFO - Navigating to cart page
+2025-07-19 21:26:22,447 - INFO - Fetching product name from cart
